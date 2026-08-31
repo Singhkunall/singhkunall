@@ -1,21 +1,28 @@
 <div align="center">
 
-  <!-- TOP WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=220&section=header&text=KUNAL%20KUMAR&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <!-- DYNAMIC ANIMATED CAPSULE HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=220&section=header&text=KUNAL%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
 
   <br/>
 
   <!-- AVATAR PHOTO WITH GLOWING NEON BORDER -->
-  <a href="https://github.com/Singhkunall">
-    <img src="https://github.com/Singhkunall.png" width="170" height="170" style="border-radius:50%; border:4px solid #00f0ff;" alt="Kunal Kumar" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Singhkunall">
+          <img src="https://github.com/Singhkunall.png" width="170" height="170" style="border-radius:50%; border:4px solid #00f0ff;" alt="Kunal Kumar" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <h1 align="center">
-    <font color="#00f0ff">Kunal Kumar</font> 👋
+  <h1>
+    <img src="https://raw.githubusercontent.com/martinbroadhurst/martinbroadhurst/main/assets/hi.gif" width="30px">
+    <font color="#00f0ff">Hey, I'm Kunal Kumar!</font>
   </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%F0%9F%8D%93;Passionate+C%2B%2B+%26+Java+Developer+%E2%9A%A1;Data+Science+%26+AI+Agent+Architect+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%F0%9F%8D%93;Passionate+C%2B%2B+%26+Java+Developer+%E2%9A%A1;AI+Agent+Architect+%26+Data+Science+Explorer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -29,65 +36,36 @@
 
 <br/>
 
-<!-- MACOS TERMINAL ABOUT ME SECTION -->
-<div align="center">
-  <img src="https://readme-swapping-badges.vercel.app/api?badges=cplusplus,java,python,javascript,nodejs,express,react,git,vscode&theme=tokyonight" />
-</div>
-
-<br/>
-
 ```javascript
-// ⚡ terminal@kunal-kumar:~$ cat profile.js
+// ⚡ terminal@kunal-kumar:~$ cat profile.json
 
-const kunal = {
-  name: "Kunal Kumar",
-  role: "Computer Science Engineer | Full Stack & AI Developer",
-  location: "India 🇮🇳",
-  education: "B.Tech CSE Student",
-  passions: [
-    "High Performance C++ & Java Systems",
-    "Data Science & Predictive ML Models",
-    "Autonomous AI Agents & Intelligent Automation",
-    "Full-Stack Web Architectures"
-  ],
-  currentGoal: "Building cutting-edge AI software & contributing to impactful Open Source",
-  funFact: "I debug code in my sleep and solve DSA problems for fun! 🚀"
-};
+{
+  "name": "Kunal Kumar",
+  "title": "Computer Science Engineer | Full Stack & AI Developer",
+  "location": "India 🇮🇳",
+  "education": "B.Tech CSE Student",
+  "skills": {
+    "languages": ["C++", "Java", "Python", "JavaScript"],
+    "backend": ["Node.js", "Express.js", "REST APIs"],
+    "ai_and_data": ["Data Science", "Machine Learning", "AI Agents", "Jupyter"],
+    "tools": ["Git", "GitHub", "VS Code", "Postman", "Linux"]
+  },
+  "currentFocus": "Building Autonomous AI Agents & Scalable Web Applications",
+  "quote": "Code is like humor. When you have to explain it, it’s bad."
+}
 ```
 
 ---
 
-<h2 align="center">⚡ Tech Stack & Ecosystem</h2>
+<h2 align="center">⚡ High-Tech Stack & Tools</h2>
 
 <div align="center">
-
-  ### ⚙️ Core Languages
-  <p>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/cpp.svg" width="45" height="45" alt="C++" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/java.svg" width="45" height="45" alt="Java" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/python.svg" width="45" height="45" alt="Python" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/javascript.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/html5.svg" width="45" height="45" alt="HTML5" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/css3.svg" width="45" height="45" alt="CSS3" />
-  </p>
-
-  ### 🌐 Frameworks & Backend
-  <p>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/nodejs.svg" width="45" height="45" alt="Node.js" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/express.svg" width="45" height="45" alt="Express" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/react.svg" width="45" height="45" alt="React" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/icons/bootstrap.svg" width="45" height="45" alt="Bootstrap" />
-  </p>
-
-  ### 🤖 Data Science, AI & Developer Tools
-  <p>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </p>
-
+  <br/>
+  <!-- SKILLICONS 3D BADGES GRID -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,nodejs,express,react,bootstrap,postgres,mongodb,git,github,vscode,postman,linux,docker&perline=9" />
+  </a>
+  <br/><br/>
 </div>
 
 ---
@@ -95,20 +73,29 @@ const kunal = {
 <h2 align="center">📈 GitHub Performance Analytics</h2>
 
 <div align="center">
+  <br/>
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Singhkunall&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Singhkunall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhkunall&layout=compact&theme=radical&hide_border=true&hide=html,css" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhkunall&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Singhkunall&theme=radical&hide_border=true" width="98%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Singhkunall&theme=tokyonight&hide_border=true" width="98%" alt="Streak Stats" />
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Activity Matrix</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -128,7 +115,7 @@ const kunal = {
 
 ---
 
-<h2 align="center">💡 Daily Developer Humor</h2>
+<h2 align="center">💡 Daily Coding Motivation & Humor</h2>
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117" alt="Developer Joke" />
@@ -140,20 +127,23 @@ const kunal = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kunal-kumar-3636ba2b1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:kunalkumar@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <br/>
 
-<br/><br/>
+  <a href="https://www.linkedin.com/in/kunal-kumar-3636ba2b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kunalkumar@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Singhkunall&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
-</p>
+  <br/><br/>
 
-<!-- CAPSULE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=120&section=footer" width="100%" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Singhkunall&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  </p>
+
+  <!-- CAPSULE FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=120&section=footer" width="100%" />
 
 </div>

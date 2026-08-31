@@ -1,10 +1,21 @@
 <div align="center">
 
-  <!-- TOP BANNER & ANIMATED TYPING HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=220&section=header&text=KUNAL%20KUMAR&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <!-- TOP WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,15,30&height=200&section=header&text=WELCOME%20TO%20MY%20WORLD&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+
+  <br/>
+
+  <!-- AVATAR PHOTO WITH GLOWING NEON BORDER -->
+  <a href="https://github.com/Singhkunall">
+    <img src="https://github.com/Singhkunall.png" width="180" height="180" style="border-radius:50%; border:4px solid #00f0ff;" alt="Kunal Kumar" />
+  </a>
+
+  <h1 align="center">
+    <font color="#00f0ff">Kunal Kumar</font> 👋
+  </h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%F0%9F%8D%93;Passionate+C%2B%2B+%26+Java+Developer+%E2%9A%A1;Data+Science+%26+AI+Agent+Architect+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%F0%9F%8D%93;Passionate+C%2B%2B+%26+Java+Developer+%E2%9A%A1;Data+Science+%26+AI+Agent+Architect+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%8C%90;Turning+Coffee+into+Clean+Code+%E2%98%95" alt="Typing SVG" />
   </a>
 
   <br/><br/>
